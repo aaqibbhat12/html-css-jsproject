@@ -1,0 +1,52 @@
+body {
+  height: 100vh;
+  background-color: #47424f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h3 {
+  text-align: center;
+  color: black;
+}
+input {
+  height: 40px;
+  width: 200px;
+  border-radius: 20px;
+  color: black;
+  cursor: pointer;
+}
+.subBtn {
+  padding-left: 10px;
+}
+.subBtn input {
+  background-color: red;
+}
+
+form {
+  border-radius: 25px;
+  background-image: linear-gradient(red, green, blue, white, purple);
+  height: 400px;
+  width: 300px;
+  text-align: center;
+  text-wrap: fill;
+}
+p a {
+  text-decoration: none;
+  color: red;
+}
+google-s-logo p {
+  display: inline-block;
+}
+.userInput input {
+  background-color: aqua;
+  color: black;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.passInput input {
+  background-color: aqua;
+  color: black;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
